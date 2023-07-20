@@ -5,7 +5,7 @@ For installing Windows 11, you will require internet connection. To connect to t
 
 ### Ninite
 [Ninite](https://ninite.com/) is the recommended place to download most things needed to get started. I would recommend:
-- Chrome/Firefox
+- Chrome/Firefox (if you are more familiar with these browsers)
 - Zoom
 - Inkscape
 - Notepad++
@@ -17,6 +17,7 @@ For installing Windows 11, you will require internet connection. To connect to t
 ### Other downloads
 - [Github Desktop](https://desktop.github.com/)
 - [Zotero](https://www.zotero.org/download/)
+- [Git](https://git-scm.com/download/win)
 
 ### napari/Python Set Up
 Please see python-setup.md

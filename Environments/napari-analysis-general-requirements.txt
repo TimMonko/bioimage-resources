@@ -3,6 +3,7 @@ jupyterlab
 pingouin
 seaborn
 pyrsistent
+tifffile>=2023.3.15
 napari-aicsimageio
 napari-pyclesperanto-assistant
 napari-skimage-regionprops
