@@ -22,7 +22,6 @@ napari-workflow-optimizer
 napari-workflow-inspector
 napari-curtain
 napari-layer-details-display
-napari-roi
 napari-console
 btrack[napari]
 napari-arboretum
